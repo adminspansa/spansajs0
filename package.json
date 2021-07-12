@@ -1,0 +1,23 @@
+{
+  "name": "spansajs0",
+  "version": "1.0.0",
+  "description": "Ini cuma buat belajar admin aja..",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminspansa/spansajs0.git"
+  },
+  "author": "ahmad bahauddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adminspansa/spansajs0/issues"
+  },
+  "homepage": "https://github.com/adminspansa/spansajs0#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
